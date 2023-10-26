@@ -1,0 +1,7 @@
+*.pyc
+venv/
+.DS_Store
+Pulumi.*.yaml
+.pulumi/
+.vscode/
+.vs/
